@@ -23,18 +23,4 @@ Anomaly Detection with SVM and Logistic Regression: Implemented machine learning
 Model Evaluation: Performance metrics such as precision, recall, and F1-score were employed to assess the effectiveness of the models.
 Visualization: Results and findings were visually communicated to enhance understanding.
 
-Usage
-Clone the repository and open the Jupyter Notebook to explore the code and findings.
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
-jupyter notebook
 
-Dependencies
-Ensure you have the necessary dependencies installed. You can install them using:
-pip install -r requirements.txt
-
-Contributing
-Contributions are welcome! If you have suggestions or improvements, feel free to open an issue or submit a pull request.
-
-License
-This project is licensed under the MIT License.
